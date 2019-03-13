@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=itrip-alipay-1.0.jar -DgroupId=cn.itrip -DartifactId=itrip-alipay -Dversion=1.0 -Dpackaging=jar
